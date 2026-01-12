@@ -5,21 +5,21 @@
 
 clone the repository
 
-'''bash
+```bash
 git clonehttps://github.com/Shihadkp/AI-Medical-Chatbot.git
-'''
+```
 ### STEP 1 : CREATE A CONDA ENVIRONMENT AFTER OPENING THE REPOSITORY
 
-'''bash
+```bash
 conda create -n medibot python=3.10 -y
-'''
+```
 
-'''bash
+```bash
 conda activate medibot
-'''
+```
 
 
 ### STEP 2 : INSTALL THE REQUIREMENTS
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
